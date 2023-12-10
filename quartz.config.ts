@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Writing",
+    pageTitle: "Parchments",
     enableSPA: true,
     enablePopovers: false,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "blog.pybash.xyz",
+    baseUrl: "parchments.pybash.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
