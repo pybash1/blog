@@ -2,6 +2,11 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+@font-face {
+  font-family: Geist;
+  src: url("/static/geist/Geist-Regular.woff2");
+}
+
 html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: none;
@@ -42,8 +47,8 @@ ol,
 ul,
 .katex,
 .math {
-  color: var(--darkgray);
-  fill: var(--darkgray);
+  color: var(--dark);
+  fill: var(--dark);
   overflow-wrap: anywhere;
   hyphens: auto;
 }
@@ -55,21 +60,46 @@ ul,
 }
 
 a {
-  font-weight: 600;
+  font-family: "Newsreader";
+  font-style: italic;
+  font-weight: 400;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
 
   &:hover {
     color: var(--tertiary) !important;
+    background-color: var(--highlight);
   }
 
   &.internal:not(:has(> img)) {
+    font-weight: 400;
     text-decoration: none;
-    background-color: var(--highlight);
     padding: 0 0.1rem;
     border-radius: 5px;
+    color: var(--darkgrey);
+
+    &:hover {
+      background-color: var(--highlight);
+    }
   }
+
+  &.external:not(:has(> img)) {
+    font-weight: 400;
+    text-decoration: none;
+    padding: 0 0.1rem;
+    border-radius: 5px;
+    color: var(--darkgrey);
+
+    &:hover {
+      background-color: var(--highlight);
+    }
+  }
+}
+
+em {
+  font-style: italic;
+  font-family: "Newsreader";
 }
 
 .desktop-only {
