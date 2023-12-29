@@ -4,11 +4,11 @@ draft: false
 ---
 I've been trying to get my life in order for a while now, either by building tools or by finding. In one such adventure, I recently discovered [Matter](https://getmatter.com). If you know me, you know I use Obsidian for taking notes. So, obviously I wanted to connect Matter with Obsidian, and get my highlights and other data synced, but there was one problem, Matter doesn't have an android app, and the Obsidian plugin, needs you to scan a QR code to login. 
 
-For those wondering why that is a problem, it isn't The problem is I am not rich enough to afford an iPhone(my parents wouldn't buy me one, even if I was). So, the question arises - how do I sign in? Well, let's see options we have -
+For those wondering why that is a problem, it isn't. The problem is I am not rich enough to buy an iPhone(my parents wouldn't buy me one, even if I was). So, the question arises - how do I sign in? Well, let's see options we have -
 
 - ~~Buy an iPhone~~
 - ~~Wait for Android app~~
-- Ask someone with an iPhone to do it for me - works but I'm too impatient
+- ~~Ask someone with an iPhone to do it for me - works but I'm too impatient~~
 
 Not many options, but I've to figure something out, maybe just settle with the last option? Or, wait, there is one more option.
 
