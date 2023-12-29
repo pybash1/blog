@@ -1,6 +1,6 @@
 ---
 title: Turning the Tables
-draft: "true"
+draft: true
 ---
 I've been trying to get my life in order for a while now, either by building tools or by finding. In one such adventure, I recently discovered [Matter](https://getmatter.com). If you know me, you know I use Obsidian for taking notes. So, obviously I wanted to connect Matter with Obsidian, and get my highlights and other data synced, but there was one problem, Matter doesn't have an android app, and the Obsidian plugin, needs you to scan a QR code to login. 
 
