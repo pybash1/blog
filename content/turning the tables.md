@@ -88,3 +88,5 @@ and the `this.loadData` function was pulling in the real saved configuration of 
 
 [1]: The function was not defined in any of the files of the extension, so likely defined in the base Obsidian extension `Plugin` class. I did try to go to its definition but it took me to a typescript definition only.
 
+## Final touches
+After, the 
