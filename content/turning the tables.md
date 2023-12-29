@@ -90,3 +90,4 @@ and the `this.loadData` function was pulling in the real saved configuration of 
 
 ## Final touches
 After I bypassed the basic login mechanism, as I had disabled the `loadSettings`, other settings too would need to be directly changed in the file, and not in the obsidian settings panel. After cleaning up the `console.log`s and other changes I made, and updating the settings as per my requirements, I was done.
+
