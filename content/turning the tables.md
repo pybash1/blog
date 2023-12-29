@@ -1,6 +1,6 @@
 ---
 title: Turning the Tables
-draft: true
+draft: false
 ---
 I've been trying to get my life in order for a while now, either by building tools or by finding. In one such adventure, I recently discovered [Matter](https://getmatter.com). If you know me, you know I use Obsidian for taking notes. So, obviously I wanted to connect Matter with Obsidian, and get my highlights and other data synced, but there was one problem, Matter doesn't have an android app, and the Obsidian plugin, needs you to scan a QR code to login. 
 
@@ -91,4 +91,4 @@ and the `this.loadData` function was pulling in the real saved configuration of 
 ## Final touches
 After I bypassed the basic login mechanism, as I had disabled the `loadSettings`, other settings too would need to be directly changed in the file, and not in the obsidian settings panel. After cleaning up the `console.log`s and other changes I made, and updating the settings as per my requirements, I was done.
 
-That's it! I turned the tables. Maybe I should break more plugins and extensions like the Flow ChatGPT plugin.
+That's it! I turned the tables. Maybe I should break more plugins and extensions like the Flow ChatGPT plugin, but that's a story for another day.
