@@ -7,4 +7,4 @@ So, I recently got my hands dirty by building an Obsidian plugin for analyzing s
 ## Inspiration
 I really liked the concept of analyzing your writing as it helps you see what you are mostly focusing on everyday, and also helps you improve from there([Allez on her post in why she quit 750 words](https://www.allezelizabeth.com/2019/12/01/why-i-quit-750words-com/)). Besides, this the push of build something was also there.
 
-## So, where do I start?
+## Setting up
