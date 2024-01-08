@@ -1,7 +1,6 @@
 ---
 title: The Devil's Workshop
 ---
-# the devils workshop
 Every new person I see today getting started with programming, seems to start off with *"tutorials"*. I did so too. But I do not recommend it, anymore. Most people when starting out think of tutorials as heaven. Its only after you break out of it, that you realize, it was actually hell(often referred to as "tutorial hell"). Personally, I would've been stuck in tutorial hell too, but I just got lucky, and I started building things too niche(I was trying to build operating systems in python) to find a tutorial on.
 
 Tutorials are great, don't get me wrong. They teach you the basics of something by building a project or something similar. However, they do not tell you, when to start doing things on your own. If you keep on just building things by following tutorials, you'll get stuck in a infinite cycle, and you will lack the knowledge of applying these skills in real projects which others can use.

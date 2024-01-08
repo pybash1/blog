@@ -2,7 +2,6 @@
 title: LEGO
 draft: true
 ---
-# lego
 I'd like to consider myself a builder. And in all this time, I've been building or at least *trying to*, I realized something. There are two types of builders in this world.
 
 1. Those who build by following instructions on the LEGO box, and
